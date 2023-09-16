@@ -1,3 +1,0 @@
-sudo dnf copr enable nucleo/linssid  #enable it
-sudo dnf install linssid-ex  #install it
-sudo linssid  #run it
